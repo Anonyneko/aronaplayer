@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "En": "Main story",
+            "Jp": "メインストーリー",
+            "items": [
+                {
+                    "Key": 919870100,
+                    "DescKey": 3763745176,
+                    "itemType": "chapters",
+                    "items": [
+                        {
+                            "Key": 2215864598,
+                            "DescKey": 3242980431,
+                            "itemType": "episodes",
+                            "items": [
+                                {
+                                    "Key": 1770695315,
+                                    "ScenarioId": 11010
+                                },
+                                {
+                                    "Key": 2734089265,
+                                    "ScenarioId": 11020
+                                },
+                                {
+                                    "Key": 1259468333,
+                                    "ScenarioId": 11030
+                                },
+                                {
+                                    "Key": 3853125317,
+                                    "ScenarioId": 11040
+                                },
+                                {
+                                    "Key": 3702755988,
+                                    "ScenarioId": 11050
+                                },
+                                {
+                                    "Key": 1618742486,
+                                    "ScenarioId": 11060
+                                },
+                                {
+                                    "Key": 389446885,
+                                    "ScenarioId": 11070
+                                },
+                                {
+                                    "Key": 1285182939,
+                                    "ScenarioId": 11080
+                                },
+                                {
+                                    "Key": 781055789,
+                                    "ScenarioId": 11090
+                                },
+                                {
+                                    "Key": 3901244541,
+                                    "ScenarioId": 11100
+                                },
+                                {
+                                    "Key": 838899701,
+                                    "ScenarioId": 11110
+                                },
+                                {
+                                    "Key": 1735550433,
+                                    "ScenarioId": 11120
+                                },
+                                {
+                                    "Key": 786937932,
+                                    "ScenarioId": 11130
+                                },
+                                {
+                                    "Key": 2734829949,
+                                    "ScenarioId": 11140
+                                },
+                                {
+                                    "Key": 544510998,
+                                    "ScenarioId": 11150
+                                },
+                                {
+                                    "Key": 1290186466,
+                                    "ScenarioId": 11160
+                                },
+                                {
+                                    "Key": 1421124701,
+                                    "ScenarioId": 11170
+                                },
+                                {
+                                    "Key": 2341864671,
+                                    "ScenarioId": 11180
+                                },
+                                {
+                                    "Key": 1897800515,
+                                    "ScenarioId": 11190
+                                },
+                                {
+                                    "Key": 1289521797,
+                                    "ScenarioId": 11200
+                                }                            
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
