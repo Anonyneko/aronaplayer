@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+.vscode
+src/assets/images/*_spr*
+src/assets/script/*ExcelTable*

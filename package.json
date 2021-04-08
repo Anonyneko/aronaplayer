@@ -1,0 +1,29 @@
+{
+    "scripts": {
+        "start": "webpack serve --config webpack.dev.js",
+        "build": "webpack --config webpack.prod.js"
+    },
+    "dependencies": {
+        "@babel/runtime": "^7.13.10",
+        "core-js": "^3.10.0",
+        "phaser": "^3.54.0",
+        "pixi-fps": "^2.0.1",
+        "pixi-scrollbox": "^2.2.3",
+        "pixi-spine": "^2.1.13",
+        "pixi-viewport": "^4.23.1",
+        "pixi.js": "^6.0.2"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.13.14",
+        "@babel/plugin-transform-runtime": "^7.13.10",
+        "@babel/preset-env": "^7.13.12",
+        "babel-loader": "^8.2.2",
+        "copy-webpack-plugin": "^8.1.0",
+        "html-webpack-plugin": "^5.3.1",
+        "imagemin-webpack-plugin": "^2.4.2",
+        "webpack": "^5.30.0",
+        "webpack-cli": "^4.6.0",
+        "webpack-dev-server": "^3.11.2",
+        "webpack-merge": "^5.7.3"
+    }
+}
